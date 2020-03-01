@@ -3,11 +3,10 @@ package gr.academic.sdmd.retrofit;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import gr.academic.city.sdmd.retrofit.R;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * Created by trumpets on 5/11/16.
